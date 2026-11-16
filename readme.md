@@ -71,3 +71,6 @@ If you have messages like ``Could not find recipe: <ID> for area type`` they are
 
 ## 1.2.5
 - Update for 3.11 (still works on 3.10)
+
+## 2.0.0
+- Updated to SPT 4.0.x (not compatible with 4.1.x).
