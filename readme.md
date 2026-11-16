@@ -29,6 +29,9 @@ You need another mod (like SVM) to edit container sizes.
 
 Inspired by part of Trap's progressive stash, but no code has been copied. Still, huge thanks for the amazing idea!
 
+## Requirements
+- [Leaves-LeavesUtil](https://github.com/DeadLeavez/Leaves-LeavesUtil) ([latest release](https://github.com/DeadLeavez/Leaves-LeavesUtil/releases/latest)) - required.
+
 # Changelog
 ## 1.0.0
 Initial Release
